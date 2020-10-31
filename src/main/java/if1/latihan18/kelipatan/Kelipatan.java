@@ -11,7 +11,6 @@ package if1.latihan18.kelipatan;
  */
 
 public class Kelipatan {
-    
     public static void main(String[] args) {
         double i;
         for(i=0;i<=35;i+=3.5) {
